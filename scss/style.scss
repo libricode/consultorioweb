@@ -1,0 +1,11 @@
+@use'variables';
+body{
+
+    font-family: variables.$body-font;
+    color: variables.$Very-Dark-Cyan;
+}
+.main-container{
+border: 1px  solid red;
+width: 375px;
+margin: 0  auto 25px;
+}
